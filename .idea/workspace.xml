@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b317f6a5-e334-4ddb-a46d-bd2c9140e52b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/config/socket.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/socket.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/config/storage.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/config/storage.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/adminAuthController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/adminAuthController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/dashboardController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/dashboardController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/notificationController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/notificationController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/orderController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/orderController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/productController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/productController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/promotionController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/promotionController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/uploadController.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/uploadController.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/controllers/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/controllers/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/middleware/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/middleware/auth.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/models/Order.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/models/Order.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/models/Promotion.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/models/Promotion.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/models/User.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes/dashboard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/dashboard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes/orderRoutes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/orderRoutes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/routes/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/routes/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="30G5qlphJF6gBhgOVx2xns6UyQV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/asror/React_Native_6_Projects/Grocery_2",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b317f6a5-e334-4ddb-a46d-bd2c9140e52b" name="Changes" comment="" />
+      <created>1753241262002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753241262002</updated>
+      <workItem from="1753241263281" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/backend/src/migrations/20240320000000-add-quantity-fields-to-promotions.js" />
+        <option value="$PROJECT_DIR$/backend/src/scripts/createAdmin.js" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,131 @@
+.orders-container {
+  padding: 20px;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+.orders-list {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.order-card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.order-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.order-header h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.status-badge {
+  display: flex;
+  align-items: center;
+  padding: 6px 12px;
+  border-radius: 16px;
+  color: white;
+  font-weight: 500;
+}
+
+.status-badge svg {
+  margin-right: 6px;
+  font-size: 20px;
+}
+
+.order-details {
+  margin-bottom: 16px;
+}
+
+.order-details p {
+  margin: 4px 0;
+  color: #666;
+}
+
+.items-list {
+  border-top: 1px solid #eee;
+  padding-top: 16px;
+}
+
+.item-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.item-name {
+  flex: 1;
+}
+
+.item-quantity {
+  margin: 0 8px;
+  color: #666;
+}
+
+.item-price {
+  font-weight: 500;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.action-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.action-button:hover {
+  opacity: 0.9;
+}
+
+.action-button svg {
+  margin-right: 8px;
+  font-size: 20px;
+}
+
+.accept-button {
+  background-color: #28a745;
+}
+
+.reject-button {
+  background-color: #dc3545;
+}
+
+.deliver-button {
+  background-color: #17a2b8;
+  width: 100%;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+
+.error-text {
+  color: #dc3545;
+  text-align: center;
+} 

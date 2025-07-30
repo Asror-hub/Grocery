@@ -1,0 +1,84 @@
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.5; }
+  100% { opacity: 1; }
+}
+ 
+.pulse-animation {
+  animation: pulse 2s infinite;
+}
+
+.date-picker-input {
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.date-picker-input:focus {
+  outline: none;
+  border-color: #1976d2;
+  box-shadow: 0 0 0 2px rgba(25, 118, 210, 0.15);
+  background-color: white !important;
+}
+
+.date-picker-input:hover {
+  border-color: #1976d2;
+  background-color: white !important;
+}
+
+.date-picker-container {
+  transition: all 0.2s ease;
+}
+
+.date-picker-container:hover {
+  transform: translateY(-1px);
+}
+
+.week-picker-dropdown {
+  scrollbar-width: thin;
+  scrollbar-color: #ccc transparent;
+}
+
+.week-picker-dropdown::-webkit-scrollbar {
+  width: 6px;
+}
+
+.week-picker-dropdown::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.week-picker-dropdown::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
+.week-picker-dropdown::-webkit-scrollbar-thumb:hover {
+  background-color: #999;
+}
+
+/* Week picker container */
+.week-picker-container {
+  position: relative;
+}
+
+/* Week picker dropdown animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Week picker button styling */
+.week-picker-container .MuiBox-root {
+  user-select: none;
+}
+
+/* Week picker dropdown item styling */
+.week-picker-dropdown .MuiBox-root {
+  user-select: none;
+  font-family: inherit;
+}
